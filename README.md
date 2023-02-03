@@ -14,7 +14,7 @@ rustup override set nightly
 rustup update && cargo update
 ```
 
-### 🥈 Run
+### 💎 Run
 
 - [http://localhost:8000](http://localhost:8000)
 
